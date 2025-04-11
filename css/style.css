@@ -1,0 +1,66 @@
+.container {
+    height: 600px;
+    background-color: darkmagenta;
+    display: flex;
+}
+.box {
+    padding-left: 100px;
+    padding-top: 100px;
+
+}
+.main {
+    display: flex;
+    gap: 30px;
+}
+.box-item {
+    padding-left: 30px;
+    padding-top: 200px;
+    display: flex;
+}
+.red {
+ width: 200px;
+ height: 60px;
+ background-color: red;
+}
+.blue {
+    width: 200px;
+    height: 40px;
+    background-color: blue;
+    margin-top: 10px;
+
+
+}
+.yellow {
+    width: 200px;
+    height: 60px;
+    background-color: yellow;
+    margin-top: 10px;
+}
+
+.pink {
+    width: 200px;
+    height: 70px;
+    background-color: blue;
+    margin-left: 30px;
+}
+.dodblue {
+    width: 200px;
+    height: 60px;
+    background-color:yellow;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.laylo {
+    width: 200px;
+    height: 30px;
+    background-color: red;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.dildora {
+    width: 430px;
+    height: 90px;
+    background-color: pink;
+    margin-top: 10px;
+    margin-left: 30px;
+}
